@@ -109,6 +109,5 @@ func _on_DeveloperConsole_echo(input):
 
 
 func _on_DeveloperConsole_console_toggle():
-	print("?")
 	console.visible = !console.visible
 	pass # Replace with function body.
